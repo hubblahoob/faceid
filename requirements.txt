@@ -1,4 +1,9 @@
 fastapi
 uvicorn
+python-multipart
 deepface
-opencv-python
+opencv-python-headless
+pandas
+mtcnn
+retina-face
+
